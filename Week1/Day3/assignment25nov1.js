@@ -11,7 +11,7 @@
             }
 
     }
-launchBrowser("Internet Explorer")
+launchBrowser("Internet Explorer"); //function call with argument
 
 
 
@@ -31,7 +31,7 @@ function runTests(testType) {
     }
     
 }
-runTests("sanity");
+runTests("sanity");//function call with argument
 
 
 
